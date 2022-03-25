@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Sky
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (Ajay)\ \r\n\ @version\ (Rocket\ V.1.0_June_2nd_2-2020)\r\n
+comment1.params=
+comment1.target=Sky()
+comment2.params=
+comment2.target=void\ addActors()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ nextLevel()
+numComments=5

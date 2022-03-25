@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Rocket
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rocket\ here.\r\n\ \r\n\ @author\ (Ajay)\ \r\n\ @version\ (Rocket\ V.1.0_June_2nd_2-2020)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ rotateRocket()
+comment3.params=
+comment3.target=void\ changeDirection()
+comment4.params=
+comment4.target=void\ moveAround()
+comment5.params=
+comment5.target=void\ launchMissile()
+comment6.params=missile
+comment6.target=void\ triggerMissile(Missile)
+comment7.params=
+comment7.target=void\ displayReloadTime()
+numComments=8
